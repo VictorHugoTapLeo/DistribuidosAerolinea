@@ -1,0 +1,42 @@
+﻿<Window x:Class="AerolineasRafaelPabon.AsientoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AerolineasRafaelPabon"
+        mc:Ignorable="d"
+        Title="AsientoWindow" Height="450" Width="800">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Información del asiento -->
+        <TextBlock Grid.Row="0" Text="{Binding NumeroAsiento, StringFormat='Asiento: {0}'}" FontWeight="Bold"/>
+        <TextBlock Grid.Row="1" Text="{Binding Tipo, StringFormat='Clase: {0}'}"/>
+        <TextBlock Grid.Row="2" Text="{Binding Estado, StringFormat='Estado: {0}'}"/>
+
+        <!-- Datos del pasajero -->
+        <StackPanel Grid.Row="3" Orientation="Horizontal" Margin="0,10,0,0">
+            <TextBlock Text="Pasaporte:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+            <TextBox x:Name="txtPasaporte" Width="100" TextChanged="txtPasaporte_TextChanged"/>
+        </StackPanel>
+
+        <TextBlock Grid.Row="4" x:Name="txtNombrePasajero" Margin="0,5,0,0"/>
+
+        <!-- Botones de operación -->
+        <StackPanel Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom">
+            <Button x:Name="btnComprar" Content="Comprar" Margin="5" Width="80" Click="btnComprar_Click"/>
+            <Button x:Name="btnReservar" Content="Reservar" Margin="5" Width="80" Click="btnReservar_Click"/>
+            <Button x:Name="btnDevolver" Content="Devolver" Margin="5" Width="80" Click="btnDevolver_Click"/>
+        </StackPanel>
+
+        <Button Grid.Row="6" Content="Cancelar" HorizontalAlignment="Right" Width="80" Click="btnCancelar_Click"/>
+    </Grid>
+</Window>

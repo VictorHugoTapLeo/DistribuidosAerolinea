@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\services\\vectorclockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\services\\vectorclockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\services\\serverselectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\services\\serverselectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\asientowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\asientowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\services\\devolucionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\services\\devolucionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\aerolineascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\aerolineascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\models\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\models\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\asientowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\asientowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\models\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\models\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\models\\ruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\models\\ruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\models\\destino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\models\\destino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\models\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\models\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\models\\tiponave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\models\\tiponave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victo\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\models\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\models\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\models\\pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\models\\pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|c:\\users\\victo\\downloads\\aerolineasrafaelpabon\\aerolineasrafaelpabon\\aerolineasrafaelpabon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CB77B79-2FC7-4754-8A50-B43D278FAF9E}|AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj|solutionrelative:aerolineasrafaelpabon\\aerolineasrafaelpabon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\victo\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs [Solo lectura]",
+              "ViewState": "AQIAAPEBAAAAAAAAAAAUwP4BAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:03:20.466Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\AssemblyInfo.cs",
+              "RelativeToolTip": "AerolineasRafaelPabon\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:54:19.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AerolineasRafaelPabon.csproj",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj",
+              "RelativeToolTip": "AerolineasRafaelPabon\\AerolineasRafaelPabon.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T03:26:16.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Transaccion.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Models\\Transaccion.cs",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\Models\\Transaccion.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Models\\Transaccion.cs",
+              "RelativeToolTip": "AerolineasRafaelPabon\\Models\\Transaccion.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswDEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:41:05.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Pasajero.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Models\\Pasajero.cs",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\Models\\Pasajero.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Models\\Pasajero.cs",
+              "RelativeToolTip": "AerolineasRafaelPabon\\Models\\Pasajero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:40:21.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Nave.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Models\\Nave.cs",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\Models\\Nave.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Models\\Nave.cs",
+              "RelativeToolTip": "AerolineasRafaelPabon\\Models\\Nave.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:39:26.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TipoNave.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Models\\TipoNave.cs",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\Models\\TipoNave.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Models\\TipoNave.cs",
+              "RelativeToolTip": "AerolineasRafaelPabon\\Models\\TipoNave.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:39:03.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ruta.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Models\\Ruta.cs",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\Models\\Ruta.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Models\\Ruta.cs",
+              "RelativeToolTip": "AerolineasRafaelPabon\\Models\\Ruta.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:38:27.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerSelectionService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Services\\ServerSelectionService.cs",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\Services\\ServerSelectionService.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Services\\ServerSelectionService.cs",
+              "RelativeToolTip": "AerolineasRafaelPabon\\Services\\ServerSelectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:29:39.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DevolucionService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Services\\DevolucionService.cs",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\Services\\DevolucionService.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Services\\DevolucionService.cs",
+              "RelativeToolTip": "AerolineasRafaelPabon\\Services\\DevolucionService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwCQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:27:42.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AerolineasContext.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\AerolineasContext.cs",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\AerolineasContext.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\AerolineasContext.cs",
+              "RelativeToolTip": "AerolineasRafaelPabon\\AerolineasContext.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAkwE8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:26:33.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\App.config",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\App.config",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\App.config",
+              "RelativeToolTip": "AerolineasRafaelPabon\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-07T03:19:15.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsientoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\AsientoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\AsientoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\AsientoWindow.xaml.cs",
+              "RelativeToolTip": "AerolineasRafaelPabon\\AsientoWindow.xaml.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:13:42.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AsientoWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\AsientoWindow.xaml",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\AsientoWindow.xaml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\AsientoWindow.xaml",
+              "RelativeToolTip": "AerolineasRafaelPabon\\AsientoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T03:12:54.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VectorClockService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Services\\VectorClockService.cs",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\Services\\VectorClockService.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Services\\VectorClockService.cs",
+              "RelativeToolTip": "AerolineasRafaelPabon\\Services\\VectorClockService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:10:53.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Asiento.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Models\\Asiento.cs",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\Models\\Asiento.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Models\\Asiento.cs",
+              "RelativeToolTip": "AerolineasRafaelPabon\\Models\\Asiento.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:08:14.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Vuelo.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Models\\Vuelo.cs",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\Models\\Vuelo.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Models\\Vuelo.cs",
+              "RelativeToolTip": "AerolineasRafaelPabon\\Models\\Vuelo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:07:07.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Destino.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Models\\Destino.cs",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\Models\\Destino.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\Models\\Destino.cs",
+              "RelativeToolTip": "AerolineasRafaelPabon\\Models\\Destino.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA5wCcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:06:19.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\App.xaml.cs",
+              "RelativeToolTip": "AerolineasRafaelPabon\\App.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:00:18.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\App.xaml",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\App.xaml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\App.xaml",
+              "RelativeToolTip": "AerolineasRafaelPabon\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T02:54:22.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\MainWindow.xaml",
+              "RelativeToolTip": "AerolineasRafaelPabon\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T02:28:26.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AerolineasRafaelPabon\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\AerolineasRafaelPabon\\AerolineasRafaelPabon\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AerolineasRafaelPabon\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAYwM0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:28:23.155Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 629,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
